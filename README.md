@@ -12,7 +12,7 @@ This repository contains the implementation of a simple database system using Fl
 3. Set up a virtual environment (recommended):
    - For macOS and Linux:
 ```bash
-     python3 -m venv databases_project_env;
+     python -m venv databases_project_env;
      source databases_project_env/bin/activate;
 ```
    - For Windows:
